@@ -1,3 +1,3 @@
-# Memory-Segmentation-using-Assembly
+# Memory-Segmentation-using-Assembly-Language
 ## Sample Output
 ![](ss.PNG)
